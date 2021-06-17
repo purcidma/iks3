@@ -24,7 +24,7 @@ module "terraform-intersight-iks" {
   #ip_primary_dns      = "10.101.128.15"
   #ip_secondary_dns    = "10.101.128.16"
   ntp_servers         = "0.us.pool.ntp.org"
-  dns_servers          = "8.8.8.8"
+#  dns_servers          = "8.8.8.8"
 
   # Network Configuration Settings
   # pod_cidr = "100.65.0.0/16"
